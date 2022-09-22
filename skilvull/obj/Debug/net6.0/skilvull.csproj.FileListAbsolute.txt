@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\obj\Debug\net6.0\skilvull.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\obj\Debug\net6.0\skilvull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\obj\Debug\net6.0\skilvull.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\obj\Debug\net6.0\skilvull.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\obj\Debug\net6.0\skilvull.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\obj\Debug\net6.0\skilvull.dll
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\obj\Debug\net6.0\refint\skilvull.dll
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\obj\Debug\net6.0\skilvull.pdb
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\bin\Debug\net6.0\skilvull.exe
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\bin\Debug\net6.0\skilvull.deps.json
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\bin\Debug\net6.0\skilvull.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\bin\Debug\net6.0\skilvull.dll
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\obj\Debug\net6.0\skilvull.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\bin\Debug\net6.0\skilvull.pdb
+C:\Users\Lenovo\OneDrive\Dokumen\tugas tiara\skilvull\obj\Debug\net6.0\ref\skilvull.dll
